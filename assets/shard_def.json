@@ -1,0 +1,14 @@
+{
+  "algorithm": "range-int",
+  "map" : {
+    "0"    : {
+      "driver" : "SQLite",
+      "dbname" : "./db/demo1.db"
+    },
+    "6" : {
+      "driver" : "SQLite",
+      "dbname" : "./db/demo2.db"
+    }
+  }
+}
+
